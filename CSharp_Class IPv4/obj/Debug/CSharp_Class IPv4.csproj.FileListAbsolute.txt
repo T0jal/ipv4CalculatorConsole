@@ -1,0 +1,13 @@
+C:\Users\formando\source\repos\CSharp_Class IPv4\CSharp_Class IPv4\obj\Debug\CSharp_Class IPv4.csprojAssemblyReference.cache
+C:\Users\formando\source\repos\CSharp_Class IPv4\CSharp_Class IPv4\bin\Debug\CSharp_Class IPv4.exe.config
+C:\Users\formando\source\repos\CSharp_Class IPv4\CSharp_Class IPv4\bin\Debug\CSharp_Class IPv4.exe
+C:\Users\formando\source\repos\CSharp_Class IPv4\CSharp_Class IPv4\bin\Debug\CSharp_Class IPv4.pdb
+C:\Users\formando\source\repos\CSharp_Class IPv4\CSharp_Class IPv4\obj\Debug\CSharp_Class IPv4.exe
+C:\Users\formando\source\repos\CSharp_Class IPv4\CSharp_Class IPv4\obj\Debug\CSharp_Class IPv4.pdb
+C:\Users\anton\source\repos\CSharp_Class IPv4 (teste C#)\CSharp_Class IPv4\bin\Debug\CSharp_Class IPv4.exe.config
+C:\Users\anton\source\repos\CSharp_Class IPv4 (teste C#)\CSharp_Class IPv4\bin\Debug\CSharp_Class IPv4.exe
+C:\Users\anton\source\repos\CSharp_Class IPv4 (teste C#)\CSharp_Class IPv4\bin\Debug\CSharp_Class IPv4.pdb
+C:\Users\anton\source\repos\CSharp_Class IPv4 (teste C#)\CSharp_Class IPv4\obj\Debug\CSharp_Class IPv4.csprojAssemblyReference.cache
+C:\Users\anton\source\repos\CSharp_Class IPv4 (teste C#)\CSharp_Class IPv4\obj\Debug\CSharp_Class IPv4.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\CSharp_Class IPv4 (teste C#)\CSharp_Class IPv4\obj\Debug\CSharp_Class IPv4.exe
+C:\Users\anton\source\repos\CSharp_Class IPv4 (teste C#)\CSharp_Class IPv4\obj\Debug\CSharp_Class IPv4.pdb
